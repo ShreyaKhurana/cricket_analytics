@@ -42,3 +42,10 @@ Therefore, if we utilize a three-dimensional matrix to represent all the possibl
  - Six runs are scored (no dismissal) with probability `P6`
 
 These probabilities are defined for each of the 11 batsmen. We use the notation:  `[runs, Batsman number on strike, batsman at the other end]` to denote each state.
+
+overChange.py calculates the total number of runs made by a batting order. For simplicity, we check only three orders.
+
+If you have time and the resources, you can check out all the 11! possibilities.
+
+The final_scores file gives the final scores of the 'one-man teams' and this is used to rank the players.
+(Pls dunt)
