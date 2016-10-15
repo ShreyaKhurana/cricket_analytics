@@ -1,0 +1,30 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jan 02 10:32:58 2016
+
+@author: Shreya Khurana
+"""
+
+
+Jadeja
+193.453773091
+Bhuvi
+66.7923776697
+Umesh Yadav
+32.8780477538
+Kohli
+250.283412256
+Dhoni
+245.829871559
+Raina
+235.702734061
+Dhawan
+261.677102598
+Rohit
+238.310939664
+Ashwin
+106.366280351
+Rahane
+223.304316143
+Shami
+50.119047101
