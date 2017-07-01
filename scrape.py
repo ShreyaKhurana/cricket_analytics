@@ -47,10 +47,10 @@ battingTable = {'Player':player_names,
 				'Strike rate':strikeRate}
 
 recTable = pd.DataFrame(battingTable, columns = ['Player',
-												 'Runs Scored', 
-												 'Balls taken', 
-												 '4s', 
-												 '6s', 
-												 'Strike rate'])
+						 'Runs Scored', 
+						 'Balls taken', 
+						 '4s', 
+						 '6s', 
+						 'Strike rate'])
 
 print recTable
