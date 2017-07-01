@@ -41,10 +41,11 @@ for table_row in batting_table.find_all('tr')[1:]:
 		strikeRate.append(SR.encode('ascii'))
 
 battingTable = {'Player':player_names,
-				'Runs Scored':runs, 
-				'Balls taken':balls_taken, 
-				'4s':fours, '6s':sixes,
-				'Strike rate':strikeRate}
+		'Runs Scored':runs, 
+		'Balls taken':balls_taken, 
+		'4s':fours, 
+		'6s':sixes,
+		'Strike rate':strikeRate}
 
 recTable = pd.DataFrame(battingTable, columns = ['Player',
 						 'Runs Scored', 
